@@ -14,7 +14,7 @@ En fin quisera que me ayudes donando y dando una estrella al repositorio si te g
 
 <a href="https://api.whatsapp.com/send/?phone=5219991402134&text=/estado&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT_OFICIAL_1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-<a href="https://api.whatsapp.com/send/?phone=5219993404349&text=/estado&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT_OFICIAL_2_(INACTIVO)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://api.whatsapp.com/send/?phone=595995609265&text=/menu&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT_OFICIAL_2_(INACTIVO)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 <p align="center">
 <a href="#"><img title="Advirsory" src="https://img.shields.io/badge/LEA TODO EL README-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge"></a> 
@@ -22,7 +22,7 @@ En fin quisera que me ayudes donando y dando una estrella al repositorio si te g
 </p>
 
 <p align="center">   
-<a href="https://github.com/angelcaido120/IaReboot-MD/watchers"><img title="Vistas" src="https://img.shields.io/github/watchers/angelcaido12/IaReboot-MD?label=Watchers&color=green&style=flat-square"></a>
+<a href="https://github.com/angelcaido120/IaReboot-MD/watchers"><img title="Vistas" src="https://img.shields.io/github/watchers/angelcaido120/IaReboot-MD?label=Watchers&color=green&style=flat-square"></a>
 <a href="https://github.com/angelcaido120/IaReboot-MD/stargazers"><img title="Estrellas" src="https://img.shields.io/github/stars/angelcaido120/IaReboot-MD?label=Stars&color=yellow&style=flat-square"></a>
 </p>
 
