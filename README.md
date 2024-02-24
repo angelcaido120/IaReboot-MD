@@ -12,7 +12,7 @@ En fin quisera que me ayudes donando y dando una estrella al repositorio si te g
  ### BOTS OFICIALES DEL PROYECTO
 > **Info** Podra Reportar Si el Bot lo baneo por accidente entre otras cosas.  
 
-<a href="https://api.whatsapp.com/send/?phone=5219991402134&text=/estado&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT_OFICIAL_1_(INACTIVO)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://api.whatsapp.com/send/?phone=5219991402134&text=/estado&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT_OFICIAL_1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 <a href="https://api.whatsapp.com/send/?phone=5219993404349&text=/estado&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT_OFICIAL_2_(INACTIVO)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
@@ -22,8 +22,8 @@ En fin quisera que me ayudes donando y dando una estrella al repositorio si te g
 </p>
 
 <p align="center">   
-<a href="https://github.com/angelcaido12/IaReboot-MD/watchers"><img title="Vistas" src="https://img.shields.io/github/watchers/angelcaido12/IaReboot-MD?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/angelcaido12/IaReboot-MD/stargazers"><img title="Estrellas" src="https://img.shields.io/github/stars/angelcaido12/IaReboot-MD?label=Stars&color=yellow&style=flat-square"></a>
+<a href="https://github.com/angelcaido120/IaReboot-MD/watchers"><img title="Vistas" src="https://img.shields.io/github/watchers/angelcaido12/IaReboot-MD?label=Watchers&color=green&style=flat-square"></a>
+<a href="https://github.com/angelcaido120/IaReboot-MD/stargazers"><img title="Estrellas" src="https://img.shields.io/github/stars/angelcaido120/IaReboot-MD?label=Stars&color=yellow&style=flat-square"></a>
 </p>
 
 ### INSTALACIÓN AUTOMÁTICA (Innovado) (@GataDios)
@@ -33,7 +33,7 @@ En fin quisera que me ayudes donando y dando una estrella al repositorio si te g
 termux-setup-storage
 ```
 ```bash
-apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/angelcaido12/IaReboot-MD/master/pingows.sh | bash
+apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/angelcaido120/IaReboot-MD/master/pingows.sh | bash
 ```
 
 -----
@@ -53,7 +53,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/angelcaido12/IaReboot-MD.git && cd IaReboot-MD
+git clone https://github.com/angelcaido120/IaReboot-MD.git && cd IaReboot-MD
 ```
 
 ```bash
@@ -98,7 +98,7 @@ pm2 start index
 ``` 
 ----
 ### 🟣 ACTIVAR EN HEROKU 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/angelcaido12/IaReboot-MD-Heroku) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/angelcaido120/IaReboot-MD-Heroku) 
 ### 👇 Añada lo siguente al Buildpack: 
 ```bash
 heroku/nodejs
@@ -113,7 +113,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 
 ### ⚡ ACTIVAR EN REPLIT
 
-<a target="_blank" href="https://replit.com/github/angelcaido12/IaReboot-MD"><img alt="Run on Replit" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg"></a> <a href="https://replit.com/github/angelcaido12/IaReboot-MD"> <img src="https://media0.giphy.com/media/lMwu8EJAnv9kmn51KQ/giphy.gif" height="29px"></a>
+<a target="_blank" href="https://replit.com/github/angelcaido120/IaReboot-MD"><img alt="Run on Replit" src="https://binbashbanana.github.io/deploy-buttons/buttons/remade/replit.svg"></a> <a href="https://replit.com/github/angelcaido120/IaReboot-MD"> <img src="https://media0.giphy.com/media/lMwu8EJAnv9kmn51KQ/giphy.gif" height="29px"></a>
 
 -----
 ### 📦️ BOXMINE WORLD
@@ -165,7 +165,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * Descargar e instala ImageMagick [`Aquí`](https://imagemagick.org/script/download.php)
 * Descargar e instala Yarn [`Aquí`](https://classic.yarnpkg.com/en/docs/install#windows-stable)
 ```bash
-git clone https://github.com/angelcaido12/IaReboot-MD && cd IaReboot-MD && npm install && npm update && node .
+git clone https://github.com/angelcaido120/IaReboot-MD && cd IaReboot-MD && npm install && npm update && node .
 ```
 ## 💻 Instalación de FFmpeg para Windows 
 * Descarga cualquiera de las versiones de FFmpeg disponibles haciendo clic en [FFmpeg](https://www.gyan.dev/ffmpeg/builds/).
@@ -199,5 +199,5 @@ Si tiene éxito, le dará un mensaje como: `SUCCESS: specified value was saved`.
 
 [![GataDios](https://github.com/GataNina-Li.png?size=60)](https://github.com/GataNina-Li) 
 ### DEVELOPER 
-[![AngelCaido](https://github.com/angelcaido12.png?size=100)](https://github.com/angelcaido12)
-> Copyright (c) 2024 Bajo Licencia **[Angel Caido](https://github.com/angelcaido12/IaReboot-MD/blob/master/LICENSE)**.
+[![AngelCaido](https://github.com/angelcaido120.png?size=100)](https://github.com/angelcaido120)
+> Copyright (c) 2024 Bajo Licencia **[Angel Caido](https://github.com/angelcaido120/IaReboot-MD/blob/master/LICENSE)**.
